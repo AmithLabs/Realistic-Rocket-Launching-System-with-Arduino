@@ -87,7 +87,7 @@ The full build process is available on the **AmithLabs YouTube channel**.
 
 ## Schematic Diagram
 
-![Schematic Diagram](Wiring%20Diagram.jpg)
+![Schematic Diagram]Wiring Diagram - Auto Rocket Launch.png)
 
 ---
 
